@@ -38,6 +38,9 @@ The Factory pattern is a creational design pattern that provides an interface fo
           - 📁 main
             - 📁 factory
               - 📄 TokenSenderServiceFactory.js
+          - 📁 shared
+              - 📄 ClientEmailSenderOne.js
+              - 📄 ClientEmailSenderTwo.js
         - 📁 resources
   - 📁 test
     - 📁 java
